@@ -11,6 +11,9 @@
   "categories": [
     "Cyber-Security"
   ],
+  "compatibility": [
+    "1.13.x"
+  ],
   "require_gpu": false,
   "enabled": true,
   "image_type": "Container",
