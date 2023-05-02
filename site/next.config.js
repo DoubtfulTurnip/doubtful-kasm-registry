@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Doubtful Kasm Registry',
+    description: 'A mash of custom images',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/DoubtfulTurnip/',
+    contactUrl: 'https://github.com/DoubtfulTurnip/',
   },
   reactStrictMode: true,
   swcMinify: true,
