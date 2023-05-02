@@ -9,7 +9,7 @@
   "cpu_allocation_method": "Inherit",
   "docker_registry": "https://index.docker.io/v1/",
   "categories": [
-    "Cyber-Security"
+    "Security"
   ],
   "compatibility": [
     "1.13.x"
