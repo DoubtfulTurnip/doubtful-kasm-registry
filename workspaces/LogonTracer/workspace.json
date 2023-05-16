@@ -5,7 +5,10 @@
   "name": "bukshee/logontracer-kasm:latest",
   "run_config": {
     "hostname": "kasm",
-    "user":"root"
+    "first_launch":{
+      "user":"root",
+      "cmd":"bash -c 'apt-get update && apt-get install -y sudo && echo \"kasm-user  ALL=(ALL) NOPASSWD: ALL\" >> /etc/sudoers'"
+  }
   },
   "cores": 2,
   "memory": 2768,
