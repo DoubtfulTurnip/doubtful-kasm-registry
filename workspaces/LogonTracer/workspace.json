@@ -5,7 +5,6 @@
   "name": "bukshee/logontracer-kasm:latest",
   "run_config": {
     "hostname": "kasm"
-  }
   },
   "cores": 2,
   "memory": 2768,
