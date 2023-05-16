@@ -3,9 +3,9 @@
   "image_src": "logontracer.png",
   "description": "LogonTracer is a tool to investigate malicious logon by visualizing and analyzing Windows Active Directory event logs",
   "name": "bukshee/logontracer-kasm:latest",
-  "run_config": {
+  "run_config": [
     "hostname": "kasm"
-  },
+  ],
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
