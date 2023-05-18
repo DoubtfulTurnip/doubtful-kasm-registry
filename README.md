@@ -6,28 +6,29 @@
   <br>
 </h1>
 
-<p align="center">This repository is a template you can use to create your own registry that will work with Kasm Workspaces. A front end website is automatically generated for you and will look similar to the one below.</p>
+<p align="center">This repository is a custom 3rd party Kasm registry</p>
 
 
-### Checking it works
+### Adding the registry
 
 ![install-registry-800](https://user-images.githubusercontent.com/5698566/230379178-4b2a08c7-3ae1-4000-88a0-ae4b8ab17892.gif)
 
 > **Note**
 > If you copy the url from the address bar instead of clicking the button, be sure to remove the branch version from the URL when adding to workspaces, otherwise it wont work.
 
-1. Click on the **Workspace Registry Link** button, this will put the correct url in your clipboard.
-2. Go to your Kasm Workspaces instance.
-3. Navigate to the Workspaces Registry (Admin / Workspaces / Click on the **Workspaces Registry** button).
-4. Click on **Add new** in the registries list.
-5. Paste the URL into the text box and click **Add Registry**
-6. Click on the mini icon under the registry name to filter by your registries workspaces
+1. Go to https://doubtfulturnip.github.io/doubtful-kasm-registry/1.0/
+2. Click on the **Workspace Registry Link** button, this will put the correct url in your clipboard.
+3. Go to your Kasm Workspaces instance.
+4. Navigate to the Workspaces Registry (Admin / Workspaces / Click on the **Workspaces Registry** button).
+5. Click on **Add new** in the registries list.
+6. Paste the URL into the text box and click **Add Registry**
+7. Click on the mini icon under the registry name to filter by your registries workspaces
 
 &nbsp;
 
 
 
-## 6. Discovery
+## Discovery
 
 The tag below will hopefully make it easier for people to find your Workspace Registry by clicking on [this github search link](https://github.com/search?q=in%3Areadme+sort%3Aupdated+-user%3Akasmtech+%22KASM-REGISTRY-DISCOVERY-IDENTIFIER%22&type=repositories). If you want to make it harder to find your repository for some reason, just remove this section.
 
