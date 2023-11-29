@@ -15,7 +15,7 @@
     "Security"
   ],
   "compatibility": [
-    "1.13.x"
+    "1.14.x"
   ],
   "require_gpu": false,
   "enabled": true,
